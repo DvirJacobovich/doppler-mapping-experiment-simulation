@@ -37,7 +37,7 @@ switch signal_type
         % Gaussian signal with incertainty of sqrt(w).
         r = Amp*exp(-((xx.^2) + (yy.^2)) ./ w).*exp(-1i.*pi*t);
         
-    case 2
+    case 2 % Uniformed intensity
         % Circular signal radius sig_rad.
         r = Amp*circle_draw(sz, sig_rad);
 end

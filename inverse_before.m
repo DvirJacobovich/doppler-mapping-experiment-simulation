@@ -1,12 +1,9 @@
+% Dvir Jacobovich 2021 - Pr John Howell lab Hebrew University Of Jerusalem
 
 clear
 close all force
 
-addpath('C:\Users\Dvir\Desktop\Doppler Frequencies Mapping')
-addpath('C:\Users\Dvir\Desktop\Doppler Frequencies Mapping\Compressive_Sensing_Tools\l1magic\Optimization')
-addpath 'C:\Users\Dvir\Desktop\Doppler Frequencies Mapping\Usefull stuff'
 addpath 'C:\Users\Dvir\Desktop\DMD Settings and Control\Compressive_Sensing_Tools\NESTA_v1.1\Analysis'
-
 
 addpath utils/
 addpath utils/qr/

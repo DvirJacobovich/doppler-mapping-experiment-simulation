@@ -8,7 +8,7 @@ addpath('..\')
 
 pow = 7;
 sz = 2^pow;
-
+t = 0;
 N = sz^2; 
 
 % No. of measurements
